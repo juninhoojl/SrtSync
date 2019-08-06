@@ -1,6 +1,6 @@
 ![SRTSYNC_LOGO](Logo.png)
 
-**SrtSync** is a simple delay editor for .srt files to produce permanent synchronization with movies.
+🦁 **SrtSync** is a simple delay editor for .srt files to produce permanent synchronization with movies.
 
 ## Example of Usage
 
