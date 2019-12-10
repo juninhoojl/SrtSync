@@ -8,7 +8,7 @@
 * -10000 => Delay (microseconds)
 * Papillon.srt => Input File
 
-`ruby srtsync.rb Papillon.srt -10000 PapillonNew.srt`
+`ruby srtsync.rb Papillon.srt -1000 PapillonNew.srt`
 
 ### Result
 
