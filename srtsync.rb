@@ -20,7 +20,7 @@ File.foreach(arquivo) do |linha|
 		tempa = Time.parse(linha[0..11]) + ajuste
 		tempb = Time.parse(linha[17..27]) + ajuste
 		linha[0..11] = tempa.strftime("%H:%M:%S,%L")
-		linha[17..28] = tempa.strftime("%H:%M:%S,%L")
+		linha[17..28] = tempb.strftime("%H:%M:%S,%L")
 	end
 	linhas << linha.chomp
 end
