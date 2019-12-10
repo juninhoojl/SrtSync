@@ -5,7 +5,7 @@
 ## Example of Usage
 
 * Papillon.srt => Input File
-* -10000 => Delay (microseconds)
+* -10000 => Delay (miliseconds)
 * Papillon.srt => Input File
 
 `ruby srtsync.rb Papillon.srt -1000 PapillonNew.srt`
